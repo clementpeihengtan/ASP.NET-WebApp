@@ -1,0 +1,13 @@
+C:\Users\clement\source\repos\MyProduct\ProductMarket.Web\ProductAPI.Structure\bin\Release\ProductAPI.Structure.dll.config
+C:\Users\clement\source\repos\MyProduct\ProductMarket.Web\ProductAPI.Structure\bin\Release\ProductAPI.Structure.dll
+C:\Users\clement\source\repos\MyProduct\ProductMarket.Web\ProductAPI.Structure\bin\Release\ProductAPI.Structure.pdb
+C:\Users\clement\source\repos\MyProduct\ProductMarket.Web\ProductAPI.Structure\bin\Release\EntityFramework.dll
+C:\Users\clement\source\repos\MyProduct\ProductMarket.Web\ProductAPI.Structure\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\clement\source\repos\MyProduct\ProductMarket.Web\ProductAPI.Structure\bin\Release\ProductAPI.Core.dll
+C:\Users\clement\source\repos\MyProduct\ProductMarket.Web\ProductAPI.Structure\bin\Release\ProductAPI.Core.pdb
+C:\Users\clement\source\repos\MyProduct\ProductMarket.Web\ProductAPI.Structure\bin\Release\EntityFramework.xml
+C:\Users\clement\source\repos\MyProduct\ProductMarket.Web\ProductAPI.Structure\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\clement\source\repos\MyProduct\ProductMarket.Web\ProductAPI.Structure\obj\Release\ProductAPI.Structure.csprojResolveAssemblyReference.cache
+C:\Users\clement\source\repos\MyProduct\ProductMarket.Web\ProductAPI.Structure\obj\Release\ProductAPI.Structure.csproj.CoreCompileInputs.cache
+C:\Users\clement\source\repos\MyProduct\ProductMarket.Web\ProductAPI.Structure\obj\Release\ProductAPI.Structure.dll
+C:\Users\clement\source\repos\MyProduct\ProductMarket.Web\ProductAPI.Structure\obj\Release\ProductAPI.Structure.pdb

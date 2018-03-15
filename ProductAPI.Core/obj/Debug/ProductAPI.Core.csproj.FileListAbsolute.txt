@@ -1,0 +1,5 @@
+C:\Users\clement\source\repos\MyProduct\ProductMarket.Web\ProductAPI.Core\bin\Debug\ProductAPI.Core.dll
+C:\Users\clement\source\repos\MyProduct\ProductMarket.Web\ProductAPI.Core\bin\Debug\ProductAPI.Core.pdb
+C:\Users\clement\source\repos\MyProduct\ProductMarket.Web\ProductAPI.Core\obj\Debug\ProductAPI.Core.csproj.CoreCompileInputs.cache
+C:\Users\clement\source\repos\MyProduct\ProductMarket.Web\ProductAPI.Core\obj\Debug\ProductAPI.Core.dll
+C:\Users\clement\source\repos\MyProduct\ProductMarket.Web\ProductAPI.Core\obj\Debug\ProductAPI.Core.pdb
