@@ -25,7 +25,7 @@ Simple Web Application that display product information and allow insert, delete
 
     iv.  Open Server Explorer on your visual studio. Click on
 
-         Data Connections --> "Databasname"
+         Data Connections --> "Databasename"
 
     v.   Right click on Tables and add new table.
 
