@@ -4,5 +4,5 @@
     [Description] NCHAR(100) NOT NULL, 
     [Number] INT NOT NULL, 
     [Price] DECIMAL(6, 2) NOT NULL, 
-    [Archieved ] NCHAR(100) NOT NULL
+    [Archieved] BIT NOT NULL
 )
