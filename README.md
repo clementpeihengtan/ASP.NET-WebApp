@@ -11,7 +11,7 @@ Simple Web Application that display product information and allow insert, delete
 
 # How to use
 
-1. Clone this repository down.
+1. Clone this repository.
 2. Open the sln file in Visual Studio
 3. You will need to create a local database with the format below using SQL server database 
     
