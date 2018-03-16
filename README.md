@@ -9,7 +9,7 @@ Simple Web Application that display product information and allow insert, delete
 - Dependency Injection With Unity
 - Entity Framework
 
-# How to use
+# Get Started
 
 1. Clone this repository.
 2. Open the sln file in Visual Studio
